@@ -1,7 +1,7 @@
 # Unreal-Engine-Logitech-Wheel-Plugin
 A plugin to apply Logitech Steering Wheel for Unreal Engine
 
-* Unreal Engine Version: 4.19 (Avaluable), should work in other version;
+* Unreal Engine Version: 4.19 (Available), should work in other version;
 * Hardware: Logitech G29, Untest for others, should work technically.
 
 ## This Plugin is base on **drb1992's [POST](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/110043-free-logitech-wheel-plugin)** on Unreal Engine Forums.
